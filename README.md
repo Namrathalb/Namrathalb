@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about Comics, movies, Series, POP-CULTURE i know it all.
 - 📫 How to reach me: namratha9823@gmail.com
 - 😄 Pronouns: I love writing my own thoughts, discussing on polical and cultural views, gardening and a Neat freak.
-- ⚡ Fun fact: I am  all in on e package.
+- ⚡ Fun fact: I am  all in one package.
 -->
