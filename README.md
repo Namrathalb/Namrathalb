@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: namratha9823@gmail.com
 - 😄 Pronouns: I love writing my own thoughts, discussing on polical and cultural views, gardening and a Neat freak.
 - ⚡ Fun fact: I am  all in one package.
--->
