@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-https://prezi.com/view/INJVGsRGCkmLFiAxOCGT/
 
  1) I’m currently working on Machine learning models which can be used for API creation. 
  
