@@ -7,11 +7,10 @@
  4) Hobbies: I love writing my own thoughts, discussing on polical and cultural views, gardening and a Neat freak. 
  5) Fun fact: I am  all in one package.
  
- (*) Connect with me: https://www.linkedin.com/in/namratha-l-bemane-a868b7162/
- 
+ (*) Connect with me: [Namratha L B](https://www.linkedin.com/in/namratha-l-bemane-a868b7162/)
 
  
- [![Namratha's github stats](https://github-readme-stats.vercel.app/api?username=Namrathalb)](https://github.com/anuraghazra/github-readme-stats)
+ [![Namratha's github stats](https://github-readme-stats.vercel.app/api?username=Namrathalb&show_icons=true&theme=radical)
  
 <!--![Octocat](octocat-small.png)
 
