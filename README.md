@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
- #### I’m Currently working on Developing C/C++ & Scripting Applications. Open to Collaborate on Community building and any Freelancing  & Volunteering Opportunities. Ask me about Comics, movies, Series, POP-CULTURE i know it all. I love writing my own thoughts, Discussing on Political and Cultural views, Gardening and a NeatFreak. 
+ #### I’m Currently working on Developing C/C++ & Scripting Applications. Open to Collaborate on Community building and any Freelancing  & Volunteering Opportunities. Ask me about Comics, Movies, Series, POP-CULTURE (I know it all). I love writing my own thoughts, Discussing on Political and Cultural views, Gardening and a NeatFreak. 
  
  #### (*) Connect with me: 
  
