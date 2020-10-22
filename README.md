@@ -7,13 +7,11 @@
  4) Hobbies: I love writing my own thoughts, discussing on polical and cultural views, gardening and a Neat freak. 
  5) Fun fact: I am  all in one package.
  
+ (*) Connect with me: 
  
- [![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/joel-mathew-koshy/)
-[![Twitter](https://img.shields.io/badge/Twitter-skyblue.svg?style=for-the-badge&logo=twitter)](https://twitter.com/JoelMat99)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/namratha-l-bemane-a868b7162/)
+[![Twitter](https://img.shields.io/badge/Twitter-skyblue.svg?style=for-the-badge&logo=twitter)](https://twitter.com/namratha_lb)
 [![Mail](https://img.shields.io/badge/Gmail-black.svg?style=for-the-badge&logo=gmail)](https://www.instagram.com/prudhvir3ddy/)
-
-
- (*) Connect with me: [Namratha L B](https://www.linkedin.com/in/namratha-l-bemane-a868b7162/)
 
  
  [![Namratha's github stats](https://github-readme-stats.vercel.app/api?username=Namrathalb&show_icons=true&theme=radical)
