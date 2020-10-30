@@ -1,9 +1,9 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> 
  
-- 👩‍💻 I’m Currently Working | Learning | Growing on Developing C/C++ & Scripting Applications.
-- 🤝 Open to Collaborate on Community building and any Freelancing  & Volunteering Opportunities.
-- 😎 Ask me about Comics, Movies, Series, POP-CULTURE (I know it all). 
-- 🙌I love writing my own thoughts, Discussing on Political and Cultural views, Gardening and a NeatFreak. 
+- 👩‍💻 I’m Currently Working | Learning | Growing on Developing **C/C++ & Scripting Applications.**
+- 🤝 Open to Collaborate on **Community building, any Freelancing & Volunteering Opportunities.**
+- 😎 Ask me about **Comics, Movies, Series, POP-CULTURE (I know it all).** 
+- 🙌 I Love **Writing My Own Thoughts, Discussing on Political and Cultural views, Gardening & a NeatFreak.** 
  
  #### (*) Connect with me: 
  
