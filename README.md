@@ -9,7 +9,7 @@
  
  <a href="https://twitter.com/namratha_lb" target="_blank" rel="nofollow"><img align="left" alt="Namratha's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="https://www.linkedin.com/in/namratha-l-bemane-a868b7162/" target="_blank" rel="nofollow"><img align="left" alt="Namratha's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a><a href="namratha9823@gmail.com" target="_blank" rel="nofollow"><img align="left" alt="Namratha's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/gmail.svg" /></a>
  
-<br>
+<br><br />
  
 ![Namratha's github stats](https://github-readme-stats.vercel.app/api?username=Namrathalb&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Namrathalb&layout=compact&theme=dark)
