@@ -1,14 +1,9 @@
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
-
-
- #### I’m Currently working on Developing C/C++ & Scripting Applications. Open to Collaborate on Community building and any Freelancing  & Volunteering Opportunities. Ask me about Comics, Movies, Series, POP-CULTURE (I know it all). I love writing my own thoughts, Discussing on Political and Cultural views, Gardening and a NeatFreak. 
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> 
  
- 
-- 🏽‍💻 Currently working, learning and growing my skillset in deep learning, competitive coding, data structures and algorithms.
-- 🤝 Open for collaborations in deep learning, analytics and data science.
-- 👨 Know more about me at [Sourcerer](https://sourcerer.io/pr2tik1) 
-- 🌐 Visit my [porfolio website](https://pr2tik1.github.io/) for complete background and contact.
-- 👋 My personal [blog site](https://pr2tik1.github.io/blog/)
+- 👩‍💻 I’m Currently Working | Learning | Growing on Developing C/C++ & Scripting Applications.
+- 🤝 Open to Collaborate on Community building and any Freelancing  & Volunteering Opportunities.
+- 😎 Ask me about Comics, Movies, Series, POP-CULTURE (I know it all). 
+- 🙌I love writing my own thoughts, Discussing on Political and Cultural views, Gardening and a NeatFreak. 
  
  #### (*) Connect with me: 
  
