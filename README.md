@@ -5,11 +5,13 @@
  
  #### (*) Connect with me: 
  
-[![Linkedin](https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg)](https://www.linkedin.com/in/namratha-l-bemane-a868b7162/)
-[![Twitter](https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg)](https://twitter.com/namratha_lb)
+ <a href="https://twitter.com/namratha_lb" target="_blank" rel="nofollow"><img align="right" alt="Namratha's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="https://www.linkedin.com/in/namratha-l-bemane-a868b7162/" target="_blank" rel="nofollow"><img align="right" alt="Namratha's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a><a href="namratha9823@gmail.com" target="_blank" rel="nofollow"><img align="right" alt="Namratha's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/gmail.svg" /></a>
+ 
+
  
 [![Namratha's github stats](https://github-readme-stats.vercel.app/api?username=Namrathalb&show_icons=true&theme=radical)
- [!Gmail](https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg)](namratha9823@gmail.com)
+[!Namratha's Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Namrathalb&show_icons&theme=tokyonight)
+ [!Gmail](https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg)]()
 <!--![Octocat](octocat-small.png)
 
 <!--
