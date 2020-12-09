@@ -7,10 +7,9 @@
  
  #### (*) Connect with me: 
  
- [![Linkedin Badge](https://img.shields.io/badge/-@NamrathaLB-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/namratha-l-bemane-a868b7162/)](https://www.linkedin.com/in/namratha-l-bemane-a868b7162/) [![Twitter Badge](https://img.shields.io/badge/-@genialkartik-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/genialkartik)](https://twitter.com/genialkartik) [![EMAIL](https://img.shields.io/badge/EMAIL-namratha9823%40gmail.com-red?logo=gmail)][email]
-
-
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/namratha-l-bemane-a868b7162/)](https://www.linkedin.com/in/namratha-l-bemane-a868b7162/) [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/namratha_lb)](https://twitter.com/namratha_lb) [![Email Badge](https://img.shields.io/badge/-GMAIL-red?style=flat-square&logo=gmail&logoColor=white&link=https://www.linkedin.com/in/genial-kartik/)](email)
  
+
  <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Namrathalb/count.svg" />
