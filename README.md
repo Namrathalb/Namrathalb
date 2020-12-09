@@ -7,8 +7,9 @@
  
  #### (*) Connect with me: 
  
- [![Linkedin Badge](https://img.shields.io/badge/-@NamrathaLB-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/namratha-l-bemane-a868b7162/)](https://www.linkedin.com/in/namratha-l-bemane-a868b7162/) [![Twitter Badge](https://img.shields.io/badge/-@genialkartik-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/genialkartik)](https://twitter.com/genialkartik) ![EMAIL](https://img.shields.io/badge/EMAIL-namratha9823%40gmail.com-red?logo=gmail)
- 
+ [![Linkedin Badge](https://img.shields.io/badge/-@NamrathaLB-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/namratha-l-bemane-a868b7162/)](https://www.linkedin.com/in/namratha-l-bemane-a868b7162/) [![Twitter Badge](https://img.shields.io/badge/-@genialkartik-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/genialkartik)](https://twitter.com/genialkartik) [![EMAIL](https://img.shields.io/badge/EMAIL-namratha9823%40gmail.com-red?logo=gmail)][email]
+
+
  
  <p align="center"> 
   Visitor count<br>
